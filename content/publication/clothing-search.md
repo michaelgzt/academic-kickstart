@@ -1,6 +1,6 @@
 +++
 title = "Gridbot"
-date = 2018-07-01T00:00:00
+date = 2018-07-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["G Tang", "KP Michmizos"]
@@ -21,7 +21,7 @@ publication = "In *International Conference on Neuromorphic Systems (ICONS)*, Kn
 publication_short = "In *ICONS*"
 
 # Abstract and optional shortened version.
-abstract = "It is true that "
+abstract = "It is true"
 
 # Featured image thumbnail (optional)
 image_preview = ""
