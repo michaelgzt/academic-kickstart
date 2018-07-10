@@ -54,8 +54,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ccn17.png"
-caption = " a) The proposed SNN employing Bayesian cue integration of external (vision) and internal (speed) information to estimate the HD. b) The tuning curves of 2 HD cells with preferred direction 180 and 280 degrees. c) Spiking activities for HD cells when applying Bayesian correction on the HD cell layer. d) Correction for the error drift through the Bayesian cue integration. e) Two robotic simulation environments in Gazebo simulator. f) Spiking activities of likelihood neurons, HD cells and Bayesian inference neurons during the experiment. Above for environment 1, below for environment 2. g) Learned map of the environment represented by spiking activities of allocentric border cells. Top: environment 1; Bottom: environment 2."
+image = ""
+caption = ""
 
 +++
 
