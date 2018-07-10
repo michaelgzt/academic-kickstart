@@ -16,9 +16,15 @@ authors = ["Guangzhi Tang", "Konstantinos P. Michmizos"]
 # 6 = Book chapter
 publication_types = ["1"]
 
+# Abstract and optional shortened version.
+abstract = ""
+
 # Publication name and optional abbreviated version.
 publication = "In *International Conference on Neuromorphic Systems (ICONS)*, ACM."
 publication_short = "In *ICONS*"
+
+# Does the content use math formatting?
+math = true
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -38,6 +44,12 @@ url_slides = "#"
 url_video = "#"
 url_poster = "#"
 url_source = "#"
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
 
 +++
 
