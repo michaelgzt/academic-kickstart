@@ -1,5 +1,5 @@
 +++
-title = "Gridbot"
+title = "Gridbot: An autonomous robot controlling by a spiking neural network mimicking the brain's navigational system"
 date = 2018-07-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -36,14 +36,14 @@ projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1807.02155.pdf"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Does the content use math formatting?
 math = true
