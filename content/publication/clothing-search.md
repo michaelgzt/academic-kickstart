@@ -1,5 +1,5 @@
 +++
-title = "Gridbot: An autonomous robot controlling by a spiking neural network mimicking the brain's navigational system"
+title = "Gridbot"
 date = 2018-07-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["gridbot"]
+# projects = ["gridbot"]
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1807.02155.pdf"
