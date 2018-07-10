@@ -1,9 +1,9 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
+title = "Gridbot: An autonomous robot controlling by a spiking neural network mimicking the brain's navigational system"
+date = 2018-07-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["G Tang", "KP Michmizos"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,11 @@ authors = ["GA Cushen", "MS Nixon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *International Conference on Neuromorphic Systems (ICONS)*, Knoxville, Tennessee."
+# publication_short = "In *ICONS*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "It is true that the \"best\" neural network is not necessarily the one with the most \"brain-like\" behavior. Understanding biological intelligence, however, is a fundamental goal for several distinct disciplines. Translating our understanding of intelligence to machines is a fundamental problem in robotics. Propelled by new advancements in Neuroscience, we developed a spiking neural network (SNN) that draws from mounting experimental evidence that a number of individual neurons is associated with spatial navigation. By following the brain's structure, our model assumes no initial all-to-all connectivity, which could inhibit its translation to a neuromorphic hardware, and learns an uncharted territory by mapping its identified components into a limited number of neural representations, through spike-timing dependent plasticity (STDP). In our ongoing effort to employ a bioinspired SNN-controlled robot to real-world spatial mapping applications, we demonstrate here how an SNN may robustly control an autonomous robot in mapping and exploring an unknown environment, while compensating for its own intrinsic hardware imperfections, such as partial or total loss of visual input."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -33,11 +32,11 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = ["gridbot"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://arxiv.org/pdf/1807.02155.pdf"
+url_preprint = "#"
 url_code = "#"
 url_dataset = "#"
 url_project = "#"
@@ -45,10 +44,6 @@ url_slides = "#"
 url_video = "#"
 url_poster = "#"
 url_source = "#"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
@@ -58,10 +53,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
