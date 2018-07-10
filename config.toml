@@ -173,7 +173,7 @@ enableGitInfo = false
     'Conference paper',  # 1
     'Journal article',  # 2
     'Manuscript',  # 3
-    'Report',  # 4
+    'Workshop paper',  # 4
     'Book',  # 5
     'Book section'  # 6
   ]
