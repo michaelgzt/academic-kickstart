@@ -1,6 +1,6 @@
 +++
 title = "Gridbot: An autonomous robot controlled by a Spiking Neural Network mimicking the brain's navigational system"
-date = 2018-07-23T00:00:00
+date = 2018-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Guangzhi Tang", "Konstantinos P. Michmizos"]
