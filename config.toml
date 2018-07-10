@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Computational Brain Lab", url = "combra.cs.rutgers.edu" }, { name = "Computer Science | Rutgers University", url = "cs.rutgers.edu" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Guangzhi_Tang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gt235@cs.rutgers.edu"
   address = "CBIM 05, Rutgers University, Piscataway, NJ, 08854, USA"
 
