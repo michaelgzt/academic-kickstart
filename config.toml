@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Guangzhi Tang"
-  role = "PhD Student | Neuromorphic Robotics"
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Computational Brain Lab", url = "combra.cs.rutgers.edu" }, { name = "Computer Science | Rutgers University", url = "cs.rutgers.edu" }]
+  organizations = [ { name = "Computational Brain Lab", url = "combra.cs.rutgers.edu" }, { name = "Rutgers University", url = "cs.rutgers.edu" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Guangzhi_Tang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -255,7 +255,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
