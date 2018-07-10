@@ -257,7 +257,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "static/cv.pdf"
+  url = "cv.pdf"
   weight = 4
 
 # Taxonomies.
