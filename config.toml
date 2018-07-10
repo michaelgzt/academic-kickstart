@@ -59,7 +59,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Computational Brain Lab", url = "https://combra.cs.rutgers.edu" }, { name = "Rutgers University", url = "https://cs.rutgers.edu" }]
+  organizations = [ { name = "Computational Brain Lab", url = "http://combra.cs.rutgers.edu" }, { name = "Rutgers University", url = "https://cs.rutgers.edu" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Guangzhi_Tang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -115,7 +115,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -161,6 +161,18 @@ enableGitInfo = false
   custom_css = []
   custom_js  = []
 
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 3
+
   # Publication types.
   #   Used to categorize publications.
   #   The index of the publication type in the list is used as its unique numerical identifier.
@@ -178,28 +190,13 @@ enableGitInfo = false
     'Book section'  # 6
   ]
 
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = true
-
   # Configuration of publication pages.
   [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
 
-  # Configuration of project pages.
-  [params.projects]
-    # List publications and talks related to the project?
-    list_children = true
-
-    # Publication list format.
-    #   0 = Simple
-    #   1 = Detailed
-    #   2 = APA
-    #   3 = MLA
-    publication_format = 3
+  
 
   # Social/Academic Networking
   #
