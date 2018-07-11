@@ -42,7 +42,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "ccn17_poster.pdf"
 url_source = ""
 
 # Does the content use math formatting?
