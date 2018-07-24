@@ -33,16 +33,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Neuromorphic Computing"
-  tag = ".neuromorphic"
-
-[[filter]]
-  name = "Robotics"
+  name = "Neurorobotics"
   tag = ".robotics"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep_learning"
+  name = "Brain machine interface"
+  tag = ".bmi"
 
 +++
 

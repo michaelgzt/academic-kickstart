@@ -9,4 +9,12 @@ weight = 1
  
 +++
 
-How our brain works?
+My name is Guangzhi Tang (Pronunciation: g uu ung, j ee, t ah ng). I'm a PhD student in computer science at Rutgers University and member of the Computational Brain Lab (ComBra) in the Center for Computational Biomedicine Imaging and Modeling (CBIM). My main research interests are neurorobotics and neuromorphic computing. More specificlly, developing spiking neural networks to solve various robotic problems with robustness, efficiency, and adaptivity.
+
+(Why I'm doing this) 
+
+(What did I accomplished)
+
+(What is also my interested area)
+
+(My education and research experience)
