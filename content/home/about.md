@@ -6,6 +6,30 @@ date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 1
+
+# List your academic interests.
+[interests]
+  interests = [
+    "Neurorobotics",
+    "Neuromorphic Computing",
+    "Computational Neuroscience"
+  ]
+
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Computer Science"
+  institution = "Rutgers University"
+  year = "2017 - Present"
+
+[[education.courses]]
+  course = "MSc in Computer Science"
+  institution = "Rutgers University"
+  year = "2015 - 2017"
+
+[[education.courses]]
+  course = "BSc in Computer Science"
+  institution = "Nanjing University, "
+  year = "2011 - 2015"
  
 +++
 
