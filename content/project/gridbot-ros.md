@@ -21,10 +21,7 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "gridbot_with_ros.png"
-caption = "SNN for active exploration and the Gridbot hardware"
-
 +++
+
+TBA
 
