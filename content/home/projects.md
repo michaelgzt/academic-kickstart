@@ -34,7 +34,7 @@ filter_default = 0
 
 [[filter]]
   name = "Neurorobotics"
-  tag = ".robotics"
+  tag = ".neurorobotics"
 
 +++
 

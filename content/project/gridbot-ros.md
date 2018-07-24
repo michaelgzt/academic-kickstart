@@ -9,11 +9,11 @@ title = "Gridbot with ROS"
 summary = "SNNs implemented in ROS solve multiple robotic problems. For instance, cue integration, reference frame transformation, motion control, etc."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "gridbot_with_ros.jpg"
+image_preview = "gridbot_with_ros.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["robotics"]
+tags = ["neurorobotics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "gridbot_with_ros.jpg"
+image = "gridbot_with_ros.png"
 caption = "SNN for active exploration and the Gridbot hardware"
 
 +++
