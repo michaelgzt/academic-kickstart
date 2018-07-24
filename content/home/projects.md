@@ -36,9 +36,5 @@ filter_default = 0
   name = "Neurorobotics"
   tag = ".robotics"
 
-[[filter]]
-  name = "Brain machine interface"
-  tag = ".bmi"
-
 +++
 
