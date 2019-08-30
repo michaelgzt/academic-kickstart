@@ -3,7 +3,7 @@ title = "Introducing Astrocytes on a Neuromorphic Processor: Synchronization, Lo
 date = 2019-03-26T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["G Tang", "IE Polykretis", "VA Ivanov", "A Shah" "KP Michmizos"]
+authors = ["G Tang", "IE Polykretis", "VA Ivanov", "A Shah", "KP Michmizos"]
 
 # Publication type.
 # Legend:
