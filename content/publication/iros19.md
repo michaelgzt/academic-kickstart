@@ -1,6 +1,6 @@
 +++
 title = "Spiking Neural Network on Neuromorphic Hardware for Energy-Efficient Unidimensional SLAM"
-date = 2019-11-04T00:00:00
+date = 2019-08-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["G Tang", "A Shah", "KP Michmizos"]
