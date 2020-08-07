@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["loihi-robot"]
+projects = ["loihi-1d-slam"]
 
 # Links (optional).
 url_pdf = "iros19.pdf"

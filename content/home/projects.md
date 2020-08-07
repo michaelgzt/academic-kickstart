@@ -33,8 +33,11 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Neurorobotics"
-  tag = ".neurorobotics"
+  name = "Reinforcement Learning"
+  tag = ".rl"
 
+[[filter]]
+  name = "Neuromorphic SLAM"
+  tag = ".slam"
 +++
 

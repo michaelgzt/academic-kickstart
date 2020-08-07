@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2019-08-30T00:00:00
+date = 2020-08-04T00:00:00
 
 # Project title.
-title = "Loihi-controlled Robot"
+title = "Spiking DDPG for robot navigation"
 
 # Project summary to display on homepage.
-summary = "Spiking neural networks on Intel's Loihi chip targeting robotic problems"
+summary = "Spiking-DDPG trains an SNN for energy-efficient mapless navigation on Intel's Loihi neuromorphic processor."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kapoho.jpg"
+image_preview = "gridbot_with_ros.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["neurorobotics"]
+tags = ["rl"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

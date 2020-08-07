@@ -32,7 +32,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["gridbot-ros"]
+# projects = ["gridbot-ros"]
 
 # Links (optional).
 url_pdf = "https://www2.securecms.com/CCNeuro/docs-0/5928ecb068ed3f554f8a257a.pdf"
