@@ -9,7 +9,7 @@ title = "Spiking DDPG for robot navigation"
 summary = "Spiking-DDPG trains an SNN for energy-efficient mapless navigation on Intel's Loihi neuromorphic processor."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "gridbot_with_ros.png"
+image_preview = "kapoho.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

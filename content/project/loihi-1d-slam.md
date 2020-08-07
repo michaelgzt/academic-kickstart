@@ -9,7 +9,7 @@ title = "Neuromorphic 1D SLAM"
 summary = "Brain-inspired SNN solves the 1D SLAM problem of mobile robot using Intel's Loihi neuromorphic processor."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kapoho.png"
+image_preview = "kapoho.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
