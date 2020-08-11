@@ -37,7 +37,7 @@ selected = true
 # Links (optional).
 url_pdf = "nice19.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/combra-lab/combra_loihi"
 url_dataset = ""
 url_project = ""
 url_slides = ""

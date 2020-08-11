@@ -37,7 +37,7 @@ projects = ["rl-mapless-nav"]
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2003.01157.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/combra-lab/spiking-ddpg-mapless-navigation"
 url_dataset = ""
 url_project = ""
 url_slides = ""
